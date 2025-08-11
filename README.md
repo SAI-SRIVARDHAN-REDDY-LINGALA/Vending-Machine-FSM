@@ -5,6 +5,13 @@
 
 ---
 
+<p align="center">
+  <img src="thumbnail.png" alt="Vending Machine FSM Thumbnail" width="800">
+</p>
+
+
+---
+
 ## 1️⃣ Problem Understanding
 
 We’re designing a **Mealy model vending machine** that:
